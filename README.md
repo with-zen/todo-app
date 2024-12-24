@@ -40,7 +40,7 @@ Before you begin, make sure you have the following software installed:
     git clone <your-repository-url>
     cd <your-repository-folder>
     ```
-    Replace `<your-repository-url>` with your project's GitHub URL and `<your-repository-folder>` with folder name of your repo.
+    Replace `<https://github.com/with-zen/todo-app.git>` with your project's GitHub URL and `<todo-app>` with folder name of your repo.
 
 2.  **Backend Setup (Laravel):**
    *  Navigate into `/backend` folder:
