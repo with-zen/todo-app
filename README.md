@@ -37,10 +37,9 @@ Before you begin, make sure you have the following software installed:
 1.  **Clone the Repository:**
 
     ```bash
-    git clone <your-repository-url>
-    cd <your-repository-folder>
+    git clone <https://github.com/with-zen/todo-app.git>
+    cd <todo-app>
     ```
-    Replace `<https://github.com/with-zen/todo-app.git>` with your project's GitHub URL and `<todo-app>` with folder name of your repo.
 
 2.  **Backend Setup (Laravel):**
    *  Navigate into `/backend` folder:
@@ -128,4 +127,4 @@ Contributions are welcome! If you have suggestions for improvements or bug fixes
 
 ## Contact
 
-If you have any questions, contact [Your Name] or email at [Your Email].
+If you have any questions, contact email at [alichchali811@gmail.com].
